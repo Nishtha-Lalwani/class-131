@@ -1,0 +1,18 @@
+body{
+    background-position: center;
+    background-size: cover;
+}
+
+.link{
+    background: white;  
+    border-radius: 10px;
+    width: 25px;
+    margin-top: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+}   
+
+.linkhover {
+    font-size: x-large;
+    font-style: italic;
+}
